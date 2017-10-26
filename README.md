@@ -10,6 +10,7 @@ Jak chcę to zrobić?
 
 Planuję zrobić to w postaci grafiki oraz tekstu z aktywnymi hiperłączami.
 
-Jakich bibliotek użyję?
+Czego planuję użyć?
 
+C++
 standardowe biblioteki + SFML
