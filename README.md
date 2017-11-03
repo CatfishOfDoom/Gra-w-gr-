@@ -1,14 +1,11 @@
 Co chcę zrobić?
 
-Grę
+Kalkulator płac i wydatków
 
 Jakie funkcjonalności planuję?
 
-Gra będzie polegać na wyborach gracza i losowośći, gra w stylu RPG z kilkoma klasami postaci do wyboru. Gra w głównej mierze będzie polegać na wybieraniu akcji dla postaci, rozwijaniu jej, a losowość gry będzie polegała na następstwach wybranych decyzji.
-
-Jak chcę to zrobić?
-
-Planuję zrobić to w postaci grafiki oraz tekstu z aktywnymi hiperłączami.
+Przliczanie kwoty brutto na netto i netto na brutto w zależności od umowy oraz opcje zaplanowanie wydatków miesięcznych.
+Planuę, żeby kalkulator miał kilka podstawowych okienek z wydatkami oraz opcję dodania swoich własnych okienek. Ma to być dość proste i szybkie narzędzie pokazujące czy wystarczy nam pieniędzy podczas przeglądania ofert pracy lub do planowania wydatków na bierząco w celu oszczędzenia pieniędzy.
 
 Czego planuję użyć?
 
